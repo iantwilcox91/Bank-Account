@@ -1,0 +1,25 @@
+.jumbotron{
+  text-align: center;
+}
+.leftside{
+  text-align: center;
+  border: solid;
+  background: lightblue;
+}
+.rightside{
+  text-align: center;
+  border: solid;
+  background: lightblue;
+}
+.balance{
+  text-align: center;
+  border: solid;
+  background: lightblue;
+  margin: 10px;
+}
+.currentBalanceBox{
+  border: solid;
+  width: 40%;
+  margin-left:auto;
+  margin-right:auto;
+}
